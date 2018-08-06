@@ -1,6 +1,6 @@
 IntelShot - Is nothing more than PowerWebsShot found at https://github.com/dafthack/PowerWebShot/blob/master/PowerWebShot.ps1 just slightly modified.
 
-Tool was modified to assist my intel analyst do quick review of Intel web sites they visit on a daily basis.  
+Tool was modified to assist my intel analyst do quick review of Intel web sites they would visit on a daily basis.  
 
 **Special thanks to dafthack for doing all the hard work!
 
